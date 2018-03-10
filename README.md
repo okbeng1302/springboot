@@ -81,21 +81,15 @@
 			<artifactId>javax.servlet-api</artifactId>
 		</dependency>
 		<!-- end -->
-
 	</dependencies>
-
-
 	 <build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-			
+			</plugin>	
 		</plugins>
 	</build> 
-	
-	
 </project>
 
 
